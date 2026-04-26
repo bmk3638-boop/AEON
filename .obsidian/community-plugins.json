@@ -16,5 +16,6 @@
   "copilot",
   "obsidian-importer",
   "obsidian-mind-map",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-local-rest-api"
 ]
