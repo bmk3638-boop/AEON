@@ -1,0 +1,13 @@
+# Obsidian 시스템 폴더
+.obsidian/
+.trash/
+.smart-env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 민감 파일
+config.json
+*.env
