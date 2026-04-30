@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6305dc1dfe2c91fd",
+        "id": "9e9d55152d359910",
         "type": "tabs",
         "children": [
           {
-            "id": "d335565967570c7a",
+            "id": "aeb4877c00596997",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -218,7 +218,7 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "d335565967570c7a",
+  "active": "aeb4877c00596997",
   "lastOpenFiles": [
     "05_운영/세션로그/2026-04-29_세션로그.md",
     "00_사업/서비스카탈로그.md",
