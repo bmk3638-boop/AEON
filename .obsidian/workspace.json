@@ -11,10 +11,14 @@
             "id": "c718f5bde43c14d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "06_학습/Claude-스킬-현황.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude-스킬-현황"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,13 +225,17 @@
   },
   "active": "c718f5bde43c14d1",
   "lastOpenFiles": [
+    "01_고객/ICP.md",
+    "무제.canvas",
+    "02_솔루션/HR자동화모듈/02-사람인-자동화-개발로그.md",
+    "02_솔루션/HR자동화모듈/OCR검토 SKILL.md",
     "02_솔루션/HR자동화모듈/claude-code-무기설정.md",
+    "SKILL.md",
     "무제.base",
     "02_솔루션/GitHub-연동-허브.md",
     "02_솔루션/HR자동화모듈/성공로그/2026-05-01_전체공고-스크랩-다운로드.md",
     "2026-05-01.md",
     "00_사업/대화-아카이브.md",
-    "02_솔루션/HR자동화모듈/02-사람인-자동화-개발로그.md",
     "02_솔루션/HR자동화모듈/01-채용자동화-연구.md",
     "05_운영/세션로그/2026-04-26_문제진단-해결.md",
     "05_운영/세션로그/2026-04-25_세션로그.md",
@@ -242,12 +251,9 @@
     "CLAUDE.md",
     "05_운영/세션로그/2026-04-29_세션로그.md",
     "00_사업/서비스카탈로그.md",
-    "01_고객/ICP.md",
     "05_운영/세션로그/2026-04-26_세션로그.md",
     "05_운영/세션로그/2026-04-22_세션로그.md",
     "02_솔루션/DevOps/Harness-구축계획.md",
-    "00_사업/AI에이전트-역할분배.md",
-    "06_학습/copilot-custom-prompts/Simplify.md",
     "06_학습/copilot-custom-prompts",
     "06_학습/Claude-스킬-현황.md.tmp.7132.1777161821003",
     "06_학습/Claude-스킬-현황.md.tmp.5624.1777130405530",
@@ -258,7 +264,6 @@
     "05_운영/세션로그",
     "무제 2.base",
     "무제 2.canvas",
-    "무제.canvas",
     "무제 3.canvas",
     "무제 5.canvas",
     "무제 4.canvas",
