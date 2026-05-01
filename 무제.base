@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: 표
+    sort:
+      - property: file.mtime
+        direction: DESC
