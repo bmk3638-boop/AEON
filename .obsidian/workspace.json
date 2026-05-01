@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e9d55152d359910",
+        "id": "1114001d37c571d2",
         "type": "tabs",
         "children": [
           {
-            "id": "aeb4877c00596997",
+            "id": "c718f5bde43c14d1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -218,10 +218,10 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "aeb4877c00596997",
+  "active": "c718f5bde43c14d1",
   "lastOpenFiles": [
-    "무제.base",
     "02_솔루션/HR자동화모듈/claude-code-무기설정.md",
+    "무제.base",
     "02_솔루션/GitHub-연동-허브.md",
     "02_솔루션/HR자동화모듈/성공로그/2026-05-01_전체공고-스크랩-다운로드.md",
     "2026-05-01.md",
