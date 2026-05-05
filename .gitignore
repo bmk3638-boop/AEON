@@ -11,3 +11,9 @@ desktop.ini
 # 민감 파일
 config.json
 *.env
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
