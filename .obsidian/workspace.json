@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea9c2cee0e1db026",
+        "id": "e0b437e55f048c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "7f846378853d2da0",
+            "id": "6af11b04f66b4d7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/entities/AEON.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AEON"
             }
           }
         ]
@@ -219,14 +223,16 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "7f846378853d2da0",
+  "active": "6af11b04f66b4d7d",
   "lastOpenFiles": [
+    "wiki/entities/hr-tools-web.md",
+    "domains/obsidian-workflow.md",
+    "domains",
     "wiki/domains/에이전트조직.md",
     "wiki/domains/직무역량평가.md",
     "wiki/concepts/멀티유저아키텍처.md",
     "wiki/concepts/HR자동화.md",
     "wiki/entities/사람인.md",
-    "wiki/entities/hr-tools-web.md",
     "wiki/entities/AEON.md",
     "wiki/entities/배명규.md",
     "wiki/_templates/question.md",
@@ -255,9 +261,7 @@
     "CLAUDE.md",
     "2026-05-05.md",
     "05_운영/세션로그/2026-04-25_세션로그.md",
-    "05_운영/데일리레포트/_템플릿.md",
     "무제.canvas",
-    "무제.base",
     "Obsidian/aeon/무제 2.canvas",
     "Obsidian/aeon/무제.canvas",
     "무제 2.canvas",
