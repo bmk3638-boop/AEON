@@ -1,0 +1,47 @@
+---
+type: meta
+title: "Wiki 마스터 인덱스"
+updated: 2026-05-05
+---
+
+# AEON Wiki — 마스터 인덱스
+
+> 모든 페이지의 카탈로그. 새 페이지 추가 시 여기에 등록.
+
+---
+
+## 메타
+- [[overview]] — AEON 전체 요약
+- [[hot]] — 최근 컨텍스트 (핫 캐시)
+- [[log]] — 운영 로그
+
+## Entities (사람·조직·도구·에이전트)
+- [[entities/배명규]] — 대표
+- [[entities/AEON]] — 사업체
+- [[entities/hr-tools-web]] — MVP 플랫폼
+- [[entities/사람인]] — 채용 포털
+- [[entities/Claude]] — AI 총괄 에이전트 (AGT-00)
+- [[entities/에이전트-목록]] — AGT-00~30 전체
+
+## Concepts (개념·방법론·원칙)
+- [[concepts/HR자동화]] — 핵심 서비스 개념
+- [[concepts/모나드-몰트]] — AEON 운영 철학
+- [[concepts/스킬시스템]] — Claude 스킬 23개 운용법
+- [[concepts/멀티유저아키텍처]] — 다중 사용자 인증 구조
+
+## Domains (도메인 영역)
+- [[domains/채용자동화]] — 사람인 파이프라인 기술
+- [[domains/직무역량평가]] — 6개 섹터 대시보드
+- [[domains/obsidian-workflow]] — Obsidian + Claude 협업
+- [[domains/에이전트조직]] — 부서별 에이전트 설계
+
+## Decisions (주요 결정)
+- [[decisions/기술스택선택]] — React+FastAPI 선택 근거
+- [[decisions/bcrypt수정]] — passlib→bcrypt 직접 사용
+- [[decisions/포트설정]] — 백엔드 8010, 프론트 5173
+
+## Questions (저장된 Q&A)
+- [[questions/스킬연동현황]] — 스킬이 왜 낮아 보였나
+
+## Sources (외부 자료 요약)
+- (ingest 시 자동 추가)
