@@ -11,14 +11,10 @@
             "id": "c718f5bde43c14d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_학습/Claude-스킬-현황.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claude-스킬-현황"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -225,6 +221,7 @@
   },
   "active": "c718f5bde43c14d1",
   "lastOpenFiles": [
+    "06_학습/Claude-스킬-현황.md",
     "01_고객/ICP.md",
     "무제.canvas",
     "02_솔루션/HR자동화모듈/02-사람인-자동화-개발로그.md",
@@ -240,7 +237,6 @@
     "05_운영/세션로그/2026-04-26_문제진단-해결.md",
     "05_운영/세션로그/2026-04-25_세션로그.md",
     "05_운영/데일리레포트/2026-04-26_데일리레포트.md",
-    "06_학습/Claude-스킬-현황.md",
     "06_학습/Claude-Code-커리큘럼-v1.001.md",
     "06_학습/GitHub레포-평가결과.md",
     "06_학습/awesome-claude-code-리소스.md",
