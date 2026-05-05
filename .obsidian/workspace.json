@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1114001d37c571d2",
+        "id": "92736ac097292432",
         "type": "tabs",
         "children": [
           {
-            "id": "c718f5bde43c14d1",
+            "id": "b9411b1bb60e3214",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "claude md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,8 +223,11 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "c718f5bde43c14d1",
+  "active": "b9411b1bb60e3214",
   "lastOpenFiles": [
+    "2026-05-05.md",
+    "05_운영/세션로그/2026-04-25_세션로그.md",
+    "05_운영/데일리레포트/_템플릿.md",
     "06_학습/Claude-스킬-현황.md",
     "01_고객/ICP.md",
     "무제.canvas",
@@ -235,7 +242,6 @@
     "00_사업/대화-아카이브.md",
     "02_솔루션/HR자동화모듈/01-채용자동화-연구.md",
     "05_운영/세션로그/2026-04-26_문제진단-해결.md",
-    "05_운영/세션로그/2026-04-25_세션로그.md",
     "05_운영/데일리레포트/2026-04-26_데일리레포트.md",
     "06_학습/Claude-Code-커리큘럼-v1.001.md",
     "06_학습/GitHub레포-평가결과.md",
@@ -249,7 +255,6 @@
     "00_사업/서비스카탈로그.md",
     "05_운영/세션로그/2026-04-26_세션로그.md",
     "05_운영/세션로그/2026-04-22_세션로그.md",
-    "02_솔루션/DevOps/Harness-구축계획.md",
     "06_학습/copilot-custom-prompts",
     "06_학습/Claude-스킬-현황.md.tmp.7132.1777161821003",
     "06_학습/Claude-스킬-현황.md.tmp.5624.1777130405530",
