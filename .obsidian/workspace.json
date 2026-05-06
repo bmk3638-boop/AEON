@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d50ac15a52da8f12",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "05bd535f5056d77b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Working Tree)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "codex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +80,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -253,7 +250,7 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "05bd535f5056d77b",
+  "active": "6104ea8092896e8d",
   "lastOpenFiles": [
     "wiki/meta/확보관리 파이프라인 복구 2026-05-05.md",
     "wiki/meta/디자인 시스템 통일 2026-05-05.md",
