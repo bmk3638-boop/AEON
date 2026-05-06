@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d50ac15a52da8f12",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "05bd535f5056d77b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json  (Working Tree)"
             }
           }
         ]
@@ -80,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-22 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -251,51 +253,51 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "aa3d3d458f61daef",
+  "active": "05bd535f5056d77b",
   "lastOpenFiles": [
+    "wiki/meta/확보관리 파이프라인 복구 2026-05-05.md",
+    "wiki/meta/디자인 시스템 통일 2026-05-05.md",
+    "wiki/meta/HRM 기능영역 재배치 2026-05-05.md",
+    "wiki/meta/HR Tools 홈 리서치 기반 개편 2026-05-05.md",
     "wiki/entities/AEON.md",
+    "무제.base",
+    "wiki/meta/HR Tools 작업 인수인계 2026-05-05.md",
+    "wiki/meta",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "무제.canvas",
+    "Obsidian/aeon/환영합니다!.md",
+    "Obsidian/aeon/무제.canvas",
+    "Obsidian/aeon/무제 2.canvas",
+    "05_운영/세션로그/2026-05-01_세션로그.md",
+    "00_사업/서비스카탈로그.md",
+    "00_사업/대화-아카이브.md",
+    "domains/obsidian-workflow.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "wiki/_templates/decision.md",
+    "wiki/_templates/question.md",
+    "06_학습/벤치마킹_MERCER-GALLUP-IBM_컨설팅방향성.md",
+    "SKILL.md",
+    "CLAUDE.md",
+    "2026-05-01.md",
+    "무제 1.canvas",
+    "2026-05-05.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "wiki/entities/hr-tools-web.md",
-    "domains/obsidian-workflow.md",
     "domains",
-    "wiki/domains/에이전트조직.md",
-    "wiki/domains/직무역량평가.md",
-    "wiki/concepts/멀티유저아키텍처.md",
-    "wiki/concepts/HR자동화.md",
-    "wiki/entities/사람인.md",
-    "wiki/entities/배명규.md",
-    "wiki/_templates/question.md",
-    "wiki/_templates/decision.md",
     "wiki/_templates",
     "_templates",
     "wiki/entities",
     "wiki/domains",
     "wiki/sources",
-    "wiki/questions",
-    "wiki/concepts",
-    "무제.canvas",
-    "Obsidian/aeon/무제 2.canvas",
-    "Obsidian/aeon/무제.canvas",
     "무제 2.canvas",
     "무제 3.canvas",
     "무제 5.canvas",
-    "무제 4.canvas",
-    "무제 1.canvas"
+    "무제 4.canvas"
   ]
 }

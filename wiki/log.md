@@ -1,4 +1,39 @@
 ---
+
+## [2026-05-05] fix | 확보관리 파이프라인 복구 2026-05-05
+- Type: session
+- Location: wiki/meta/확보관리 파이프라인 복구 2026-05-05.md
+- From: 확보관리 자동화 프로세스·OCR·신규입사등록 UI 복구와 사람인 인증번호 반복 팝업 수정
+
+---
+
+## [2026-05-05] save | 디자인 시스템 통일 2026-05-05
+- Type: session
+- Location: wiki/meta/디자인 시스템 통일 2026-05-05.md
+- From: 60:30:10 팔레트 통일, 외부 회사명 제거, HRM 6영역과 법률 체크 설명 보강
+
+---
+
+## [2026-05-05] save | HR Tools 작업 인수인계 2026-05-05
+- Type: session
+- Location: wiki/meta/HR Tools 작업 인수인계 2026-05-05.md
+- From: hr-tools-web 실행 구조, 포트 불일치, Obsidian vault 협업 기준 정리
+
+---
+
+## [2026-05-05] save | HR Tools 홈 리서치 기반 개편 2026-05-05
+- Type: session
+- Location: wiki/meta/HR Tools 홈 리서치 기반 개편 2026-05-05.md
+- From: Mercer, IBM, Gallup 리서치 기반 홈 개편과 Figma 기능맵 생성
+
+---
+
+## [2026-05-05] decision | HRM 기능영역 재배치 2026-05-05
+- Type: decision
+- Location: wiki/meta/HRM 기능영역 재배치 2026-05-05.md
+- From: Mercer/IBM/Gallup 기능을 채용이 아니라 개발관리·유지관리·운영 레이어로 재배치
+
+---
 type: meta
 title: "Wiki 운영 로그"
 ---

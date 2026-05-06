@@ -45,3 +45,9 @@ updated: 2026-05-05
 
 ## Sources (외부 자료 요약)
 - (ingest 시 자동 추가)
+## Meta / Sessions
+- [[meta/확보관리 파이프라인 복구 2026-05-05]] — 확보관리 핵심 파이프라인 복구와 인증번호 반복 팝업 수정
+- [[meta/디자인 시스템 통일 2026-05-05]] — 60:30:10 팔레트, AEON 자체 기능명, HRM/법률 체크 기반 디자인 통일
+- [[meta/HRM 기능영역 재배치 2026-05-05]] — Mercer/IBM/Gallup을 HRM 기능영역에 맞게 재배치한 결정
+- [[meta/HR Tools 홈 리서치 기반 개편 2026-05-05]] — Mercer/IBM/Gallup 리서치 기반 홈 개편 및 Figma 기능맵
+- [[meta/HR Tools 작업 인수인계 2026-05-05]] — Codex와 Claude Code가 공유할 hr-tools-web 실행/복구 인수인계
