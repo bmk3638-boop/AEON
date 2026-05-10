@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki 마스터 인덱스"
-updated: 2026-05-05
+updated: 2026-05-09
 ---
 
 # AEON Wiki — 마스터 인덱스
@@ -46,6 +46,8 @@ updated: 2026-05-05
 ## Sources (외부 자료 요약)
 - (ingest 시 자동 추가)
 ## Meta / Sessions
+- [[meta/HR Tools 확보관리 IA 정리 2026-05-09]] — /acquisition canonical route, 모집관리 세분류, 빈 화면 redirect, 사이드바·검색 일관화
+- [[meta/HR Tools 확보관리 사용성 개선 2026-05-09]] — HR 컨설턴트 시연 기준 Acquisition OS 상태 저장·업무 버튼 동작·Vite 프록시 정정
 - [[meta/확보관리 파이프라인 복구 2026-05-05]] — 확보관리 핵심 파이프라인 복구와 인증번호 반복 팝업 수정
 - [[meta/디자인 시스템 통일 2026-05-05]] — 60:30:10 팔레트, AEON 자체 기능명, HRM/법률 체크 기반 디자인 통일
 - [[meta/HRM 기능영역 재배치 2026-05-05]] — Mercer/IBM/Gallup을 HRM 기능영역에 맞게 재배치한 결정

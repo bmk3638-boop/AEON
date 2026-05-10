@@ -1,5 +1,40 @@
 ---
 
+## [2026-05-09] feature | AEON HR Full HRM Operating System 반영
+- Type: session
+- Location: wiki/meta/HR Tools 확보관리 IA 정리 2026-05-09.md
+- From: AEON_HR_Full_HRM_Operating_System.md 기준으로 HR OS Overview, 6대 모듈, HR Analytics, Compliance Center route와 근로계약서 자동발송 통제 기능 구현
+
+---
+
+## [2026-05-09] fix | HR Tools 확보관리 UI 패턴 통일
+- Type: session
+- Location: wiki/meta/HR Tools 확보관리 IA 정리 2026-05-09.md
+- From: 모집관리의 왼쪽 업무 메뉴 + 오른쪽 작업 패널 구조를 인력계획, 평가기준, 후보자관리, 면접관리, 선발·처우, 입사·OCR에 확장 적용
+
+---
+
+## [2026-05-09] fix | HR Tools 부서별 평가기준 자동화 연결
+- Type: session
+- Location: wiki/meta/HR Tools 확보관리 IA 정리 2026-05-09.md
+- From: 평가기준을 부서별로 관리하고, 공고 오픈·이력서 수집·AI 이력서 파싱·모집통계·확보현황 대시보드가 같은 부서 기준을 참조하도록 구현
+
+---
+
+## [2026-05-09] fix | HR Tools 확보관리 IA 정리 2026-05-09
+- Type: session
+- Location: wiki/meta/HR Tools 확보관리 IA 정리 2026-05-09.md
+- From: 확보관리 경로를 /acquisition 하위로 통일, 모집관리 중분류·소분류·세분류 재배치, 빈 화면 redirect 처리, 사이드바와 검색 일관화
+
+---
+
+## [2026-05-09] fix | HR Tools 확보관리 사용성 개선 2026-05-09
+- Type: session
+- Location: wiki/meta/HR Tools 확보관리 사용성 개선 2026-05-09.md
+- From: git pull 이후 HR 컨설턴트 기준으로 Acquisition OS 데모 상태 저장, 업무 버튼 동작, Vite 프록시 8000 정정, Obsidian 실제 볼트 최신화
+
+---
+
 ## [2026-05-05] fix | 확보관리 파이프라인 복구 2026-05-05
 - Type: session
 - Location: wiki/meta/확보관리 파이프라인 복구 2026-05-05.md

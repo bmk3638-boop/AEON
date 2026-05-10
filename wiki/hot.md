@@ -1,15 +1,31 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-05
+updated: 2026-05-09
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-05-05. Wiki scaffold 완전 완료. hr-tools-web MVP 주요 버그 수정 완료.
+2026-05-09. hr-tools-web 확보관리 MVP를 HR 컨설턴트 시연 기준으로 조작 가능하게 개선. 실제 AEON Obsidian 볼트 업데이트 재개.
 
 ## Key Recent Facts
+- **2026-05-09 최신 세션**: [[meta/HR Tools 확보관리 사용성 개선 2026-05-09]]
+- **확보관리 IA 정리**: [[meta/HR Tools 확보관리 IA 정리 2026-05-09]]
+- **Canonical route 원칙**: 확보관리 업무는 `/acquisition/...` 하위로 통일하고 예전 주소는 redirect만 유지
+- **평가기준 선행 원칙**: 업무 순서는 인력계획 → 평가기준 → 모집관리 → 후보자관리 → 면접관리 → 선발·처우 → 입사·OCR
+- **부서별 평가기준 원칙**: 평가기준은 전사 공통 1개가 아니라 부서별로 관리하며, 공고 오픈·이력서 수집·AI 이력서 파싱·모집통계·확보현황 대시보드가 같은 부서 기준을 참조
+- **모집관리 구조**: 채용공고관리(홍보채널, 채용공고 관리) / AI 이력서 파싱·수집(공고 스캔, 이력서 수집, AI 이력서 파싱) / 모집통계분석(모집 통계 분석)
+- **확보관리 UI 패턴**: 상세 화면은 모집관리처럼 왼쪽 업무 메뉴와 오른쪽 작업 패널 구조를 기본으로 사용
+- **Full HRM OS 반영**: `AEON_HR_Full_HRM_Operating_System.md` 기준으로 HR OS Overview, Growth OS, Performance OS, Reward OS, Relations OS, Separation OS, HR Analytics, Compliance Center route 추가
+- **근로계약서 자동발송 구현**: 선발·처우관리에서 필수항목 체크, 전자발송, 서명상태, 교부로그를 관리하고 임금/근로시간/휴일/연차/근무장소/담당업무 누락 시 발송 차단
+- **현재 Codex 작업 경로**: `C:\Users\qoaud\Desktop\hr-tools-web`
+- **현재 개발 실행 기준**: 프론트 `http://127.0.0.1:5173`, 백엔드 `http://127.0.0.1:8000`
+- **Vite 프록시 정정 완료**: `/api` proxy가 `http://localhost:8000`을 바라보도록 수정
+- **Acquisition OS 상태 저장 추가**: `frontend/src/pages/acqStore.js`, `localStorage` key `aeon-acquisition-os-v1`
+- **HR 컨설턴트 사용 흐름 구현**: 채용의뢰서 생성·승인 → 공고 오픈 → 이력서 파싱 → 후보자 판정 → 면접 처리 → 오퍼/검진/서류/OCR 확인
+- **검증**: `npm run build` 성공, 수정 파일 대상 ESLint 성공, `/api/recruiting/status` 200 확인
+- **주의**: `hr-tools-web/docs`는 레포 내부 문서이고, 실제 Obsidian 볼트는 `C:\Users\qoaud\AEON`
 - **확보관리 파이프라인 복구**: [[meta/확보관리 파이프라인 복구 2026-05-05]]
 - **확보관리 필수 흐름**: 공고 스캔 → 사람인 이력서 자동 다운로드 → PDF 과학적 파싱 → OCR 교차검토 → 지원자 평가·면접 → 신규입사등록·인사정보등록
 - **인증번호 반복 팝업 원인 해결**: 과거 로그의 `WEB_AUTH` 줄을 새 인증 요청으로 오해하던 문제를 기준선 방식으로 수정
@@ -21,7 +37,7 @@ updated: 2026-05-05
 - **홈 개편 완료**: [[meta/HR Tools 홈 리서치 기반 개편 2026-05-05]]
 - **HRM 재배치 결정**: [[meta/HRM 기능영역 재배치 2026-05-05]]
 - **실제 기능 추가**: `/develop` 개발관리, `/retention` 유지관리 라우트와 화면 추가
-- **실제 실행 경로 정정**: `localhost:5173`은 `C:\Users\qoaud\Projects\hr-tools-web\frontend`를 보고 있음. Desktop 복사본이 아님.
+- **과거 실행 경로 메모**: 2026-05-05에는 `Projects` 기준 메모가 있었으나, 2026-05-09 현재 작업·검증 기준은 `Desktop\hr-tools-web`
 - **실행본 반영 완료**: `Projects` 쪽 `Home.jsx`, `index.css`에도 홈 개편 반영.
 - **Figma/FigJam 기능맵**: AEON HR Consulting Intelligence Map 생성 완료
 - **홈 신규 기능명**: `AEON 역량지도`, `AEON 업무분류`, `AEON 몰입신호`
