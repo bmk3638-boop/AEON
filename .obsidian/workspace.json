@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae142706f40eecb4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "683dcd60120e08b9",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -250,7 +250,7 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "683dcd60120e08b9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "wiki/hot.md",
     "wiki/index.md",
