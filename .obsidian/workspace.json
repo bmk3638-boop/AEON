@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d437cd9dfdb47b9a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0496f12b384fad3d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05_운영/세션로그/2026-05-10_세션로그.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2026-05-10_세션로그"
             }
           }
         ]
@@ -80,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,38 +253,40 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "0496f12b384fad3d",
+  "active": "993978072be787c2",
   "lastOpenFiles": [
-    "wiki/log.md",
+    "05_운영/데일리레포트/2026-05-10_데일리레포트.md",
+    "05_운영/데일리레포트/2026-05-10_데일리레포트.md.tmp.23844.e7281c62a600",
+    "05_운영/데일리레포트/2026-05-01_데일리레포트.md",
+    "05_운영/데일리레포트/2026-04-29_데일리레포트.md",
+    "05_운영/데일리레포트/2026-04-27_데일리레포트.md",
     "무제.base",
-    "05_운영/세션로그/2026-05-10_세션로그.md",
-    "wiki/hot.md",
-    "wiki/index.md",
-    "wiki/meta/HR Tools 확보관리 IA 정리 2026-05-09.md",
-    "wiki/meta/HR Tools 확보관리 사용성 개선 2026-05-09.md",
+    "06_학습/copilot-custom-prompts/Fix grammar and spelling.md",
+    "06_학습/copilot-custom-prompts/Explain like I am 5.md",
+    "06_학습/copilot-custom-prompts/Emojify.md",
+    "06_학습/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "06_학습/copilot-custom-prompts/Clip Web Page.md",
+    "06_학습/copilot-custom-prompts/Remove URLs.md",
+    "06_학습/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "06_학습/copilot-custom-prompts/Simplify.md",
     "wiki/entities/AEON.md",
-    "wiki/meta/확보관리 파이프라인 복구 2026-05-05.md",
-    "wiki/meta/디자인 시스템 통일 2026-05-05.md",
-    "wiki/meta/HRM 기능영역 재배치 2026-05-05.md",
-    "wiki/meta/HR Tools 홈 리서치 기반 개편 2026-05-05.md",
-    "wiki/meta/HR Tools 작업 인수인계 2026-05-05.md",
-    "wiki/meta",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
+    "wiki/entities/_index.md",
+    "wiki/entities/hr-tools-web.md",
+    "CLAUDE.md",
+    "Obsidian/aeon/무제.canvas",
     "무제.canvas",
     "Obsidian/aeon/환영합니다!.md",
-    "Obsidian/aeon/무제.canvas",
     "Obsidian/aeon/무제 2.canvas",
-    "05_운영/세션로그/2026-05-01_세션로그.md",
-    "00_사업/서비스카탈로그.md",
-    "00_사업/대화-아카이브.md",
-    "domains/obsidian-workflow.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "SKILL.md",
+    "wiki/index.md",
+    "wiki/hot.md",
+    "wiki/log.md",
+    "wiki/_templates/domain.md",
     "wiki/_templates/decision.md",
     "wiki/_templates/question.md",
+    "06_학습/Claude-스킬-현황.md",
     "06_학습/벤치마킹_MERCER-GALLUP-IBM_컨설팅방향성.md",
-    "SKILL.md",
+    "wiki/meta",
     "무제 1.canvas",
     "copilot/copilot-custom-prompts",
     "copilot",
@@ -290,7 +295,6 @@
     "_templates",
     "wiki/entities",
     "wiki/domains",
-    "wiki/sources",
     "무제 2.canvas",
     "무제 3.canvas",
     "무제 5.canvas",
