@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72406767a552b3e3",
+        "id": "18450bb46c4fb832",
         "type": "tabs",
         "children": [
           {
-            "id": "c6c0b659cce3b3eb",
+            "id": "81db80cd6ebf9004",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -253,12 +253,13 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "c6c0b659cce3b3eb",
+  "active": "81db80cd6ebf9004",
   "lastOpenFiles": [
-    "05_운영/데일리레포트/2026-05-12_데일리레포트.md",
     "05_운영/데일리레포트/2026-05-11_데일리레포트.md",
-    "02_솔루션/hr-tools-web/HR-OS-소개-스크립트.md",
     "무제.base",
+    "05_운영/데일리레포트/2026-05-12_데일리레포트.md",
+    "00_사업/서비스카탈로그.md",
+    "02_솔루션/hr-tools-web/HR-OS-소개-스크립트.md",
     "02_솔루션/hr-tools-web/HR-OS-데모-대본.md",
     "02_솔루션/hr-tools-web/디자인시스템.md",
     "05_운영/세션로그/2026-05-10_세션로그.md",
@@ -284,8 +285,6 @@
     "Obsidian/aeon/환영합니다!.md",
     "Obsidian/aeon/무제 2.canvas",
     "SKILL.md",
-    "wiki/index.md",
-    "wiki/hot.md",
     "wiki/meta",
     "무제 1.canvas",
     "copilot/copilot-custom-prompts",
