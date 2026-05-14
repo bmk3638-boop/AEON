@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18450bb46c4fb832",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "81db80cd6ebf9004",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "무제.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "무제"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -253,10 +250,10 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "81db80cd6ebf9004",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_운영/데일리레포트/2026-05-11_데일리레포트.md",
     "무제.base",
+    "05_운영/데일리레포트/2026-05-11_데일리레포트.md",
     "05_운영/데일리레포트/2026-05-12_데일리레포트.md",
     "00_사업/서비스카탈로그.md",
     "02_솔루션/hr-tools-web/HR-OS-소개-스크립트.md",
