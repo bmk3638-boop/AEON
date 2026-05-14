@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9b7ad10e435e2ee0",
+        "id": "72406767a552b3e3",
         "type": "tabs",
         "children": [
           {
-            "id": "48ab5600d2acf1f4",
+            "id": "c6c0b659cce3b3eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "02_솔루션/hr-tools-web/디자인시스템.md",
-                "mode": "source",
-                "source": false
+                "file": "무제.base",
+                "viewName": "표"
               },
-              "icon": "lucide-file",
-              "title": "디자인시스템"
+              "icon": "lucide-table",
+              "title": "무제"
             }
           }
         ]
@@ -254,11 +253,13 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "48ab5600d2acf1f4",
+  "active": "c6c0b659cce3b3eb",
   "lastOpenFiles": [
-    "02_솔루션/hr-tools-web/HR-OS-데모-대본.md",
+    "05_운영/데일리레포트/2026-05-12_데일리레포트.md",
+    "05_운영/데일리레포트/2026-05-11_데일리레포트.md",
     "02_솔루션/hr-tools-web/HR-OS-소개-스크립트.md",
     "무제.base",
+    "02_솔루션/hr-tools-web/HR-OS-데모-대본.md",
     "02_솔루션/hr-tools-web/디자인시스템.md",
     "05_운영/세션로그/2026-05-10_세션로그.md",
     "05_운영/데일리레포트/2026-05-10_데일리레포트.md",
@@ -285,8 +286,6 @@
     "SKILL.md",
     "wiki/index.md",
     "wiki/hot.md",
-    "wiki/log.md",
-    "wiki/_templates/domain.md",
     "wiki/meta",
     "무제 1.canvas",
     "copilot/copilot-custom-prompts",
