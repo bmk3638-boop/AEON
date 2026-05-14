@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "02_솔루션/hr-tools-web/디자인시스템.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "디자인시스템"
             }
           }
         ]
@@ -80,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -251,6 +256,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "무제.base",
     "05_운영/세션로그/2026-05-10_세션로그.md",
     "02_솔루션/hr-tools-web/디자인시스템.md",
     "05_운영/데일리레포트/2026-05-10_데일리레포트.md",
@@ -258,7 +264,6 @@
     "05_운영/데일리레포트/2026-05-01_데일리레포트.md",
     "05_운영/데일리레포트/2026-04-29_데일리레포트.md",
     "05_운영/데일리레포트/2026-04-27_데일리레포트.md",
-    "무제.base",
     "06_학습/copilot-custom-prompts/Fix grammar and spelling.md",
     "06_학습/copilot-custom-prompts/Explain like I am 5.md",
     "06_학습/copilot-custom-prompts/Emojify.md",
@@ -281,7 +286,6 @@
     "wiki/log.md",
     "wiki/_templates/domain.md",
     "wiki/_templates/decision.md",
-    "wiki/_templates/question.md",
     "wiki/meta",
     "무제 1.canvas",
     "copilot/copilot-custom-prompts",
