@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "256570092231127c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f7d1233e6a6bce07",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -250,9 +250,10 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f7d1233e6a6bce07",
   "lastOpenFiles": [
     "무제.base",
+    "05_운영/세션로그/2026-05-16_세션로그.md",
     "05_운영/데일리레포트/2026-05-11_데일리레포트.md",
     "05_운영/데일리레포트/2026-05-12_데일리레포트.md",
     "00_사업/서비스카탈로그.md",
@@ -281,7 +282,6 @@
     "무제.canvas",
     "Obsidian/aeon/환영합니다!.md",
     "Obsidian/aeon/무제 2.canvas",
-    "SKILL.md",
     "wiki/meta",
     "무제 1.canvas",
     "copilot/copilot-custom-prompts",
