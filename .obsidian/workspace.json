@@ -11,10 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -252,6 +252,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wiki/index.md",
     "무제.base",
     "05_운영/세션로그/2026-05-17_세션로그.md",
     "05_운영/세션로그/2026-05-16_세션로그.md",
