@@ -11,10 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -77,7 +77,7 @@
               "type": "recent-files",
               "state": {},
               "icon": "clock",
-              "title": "Recent Files"
+              "title": "Recent files"
             }
           }
         ],
@@ -252,9 +252,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_운영/세션로그/2026-05-20_세션로그.md",
-    "wiki/index.md",
+    "05_운영/세션로그/2026-05-24_세션로그.md",
     "무제.base",
+    "wiki/index.md",
+    "05_운영/세션로그/2026-05-20_세션로그.md",
     "05_운영/세션로그/2026-05-17_세션로그.md",
     "05_운영/세션로그/2026-05-16_세션로그.md",
     "05_운영/데일리레포트/2026-05-11_데일리레포트.md",
@@ -279,7 +280,6 @@
     "06_학습/copilot-custom-prompts/Simplify.md",
     "wiki/entities/AEON.md",
     "wiki/entities/_index.md",
-    "wiki/entities/hr-tools-web.md",
     "Obsidian/aeon/무제.canvas",
     "무제.canvas",
     "Obsidian/aeon/무제 2.canvas",
