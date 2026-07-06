@@ -11,13 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "무제.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "무제"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -256,11 +253,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "무제.base",
     "05_운영/세션로그/2026-07-05_세션로그.md",
     "05_운영/세션로그/2026-07-04_세션로그.md",
     "CLAUDE.md.tmp.10860.2457a9debf38",
     "02_솔루션/hr-tools-web/AEON_HR_OS_STORYLINE.md",
-    "무제.base",
     "05_운영/세션로그/2026-05-31_세션로그.md",
     "05_운영/세션로그/2026-05-30_세션로그.md",
     "05_운영/세션로그/2026-05-30_세션로그.md.tmp.26464.7f125760e147",
@@ -288,7 +285,6 @@
     "05_운영/데일리레포트/2026-05-10_데일리레포트.md",
     "05_운영/데일리레포트/2026-05-10_데일리레포트.md.tmp.23844.e7281c62a600",
     "05_운영/데일리레포트/2026-05-01_데일리레포트.md",
-    "05_운영/데일리레포트/2026-04-29_데일리레포트.md",
     "Obsidian/aeon/무제.canvas",
     "무제.canvas",
     "Obsidian/aeon/무제 2.canvas",
